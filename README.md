@@ -74,7 +74,7 @@ Design a curriculum for yourself as a sophomore in high school. Be prepared to s
 
 ### Readings for Next Week: 
 - Kojin Karatani.  [Architecture as Metaphor, Language, Number and Money. 1965 Chapter 4 Natural City.](https://drive.google.com/file/d/1zEXTkUvzGzphtb78MQpGha51GywG2yUf/view) Page 29 on the book.  
-- Pablo Helguera. [Education for Socially Engaged Art]((http://pablohelguera.net/2011/11/education-for-socially-engaged-art-2011/) - Chapter 2 Community, p 9 - 17  
+- Pablo Helguera. [Education for Socially Engaged Art](http://pablohelguera.net/2011/11/education-for-socially-engaged-art-2011/) - Chapter 2 Community, p 9 - 17  
 
 
 ## Week 2. Syllabus
