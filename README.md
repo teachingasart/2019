@@ -52,6 +52,8 @@ Reading assignment for next week:
 February 2, 2019
 
 [Lecture 1. Learner](https://tchoi8.github.io/teachingasart/lecture1.html)
+
+
 [Lecture 2. Curriculum](https://tchoi8.github.io/teachingasart/lecture2.html)
 
 
@@ -68,8 +70,7 @@ Rotating roles:
 In-class exercise: Create a map that illustrates how you learn something.
 
 ### Homework Assignment: 
--Design a curriculum for yourself as a sophomore in high school
--Be prepared to share in class next week
+Design a curriculum for yourself as a sophomore in high school. Be prepared to share in class next week
 
 ### Readings for Next Week: 
 - Kojin Karatani.  [Architecture as Metaphor, Language, Number and Money. 1965 Chapter 4 Natural City.](https://drive.google.com/file/d/1zEXTkUvzGzphtb78MQpGha51GywG2yUf/view) Page 29 on the book.  
@@ -82,13 +83,13 @@ February 9, 2019
 
 [Lecture 3. Syllabus](https://tchoi8.github.io/teachingasart/lecture3.html)
 
-1. [Go over curriculum homework in pairs]((https://github.com/tchoi8/teachingasart2018/blob/master/lectures/CurriculumWorksheet.md).  
+1. [Go over curriculum homework in pairs](https://github.com/teachingasart/2019/blob/master/Workshops/curriculumworkshop.md).  
 2. Lecture on syllabus, art work as syllabus
 
 
 ### Homework Assignment: 
 - Design a syllabus for a 6-week long class in 'your high school.' Contextualize the class within the curriculum you designed. Focus on the learning outcomes (tangible takeaways) while thinking about the learning objectives. You can also update your curriculum from last week.
-- The syllabus needs to include a class title, description, and schedule. Please follow the [syllabus worksheet](https://github.com/tchoi8/teachingasart2018/blob/master/lectures/SyllabusWorksheet.md)
+- The syllabus needs to include a class title, description, and schedule. Please follow the [syllabus worksheet](https://github.com/teachingasart/2019/blob/master/Workshops/syllabusworkshop.md)
 - 500 words & 1 image
 - In class next week we will return to our same partners and you will present your syllabus from the perspective of a teacher (or a schoolmaster.) Your partner will give feedback from the perspective of a student and vice versa. After, in partner-pairs, you will discuss your syllabus for the whole class.
 
@@ -106,7 +107,7 @@ February 16, 2017
 
 [Slides](https://tchoi8.github.io/teachingasart/lecture4)
  
-1. Review of the [syllabus homework](https://github.com/tchoi8/teachingasart2018/blob/master/lectures/SyllabusWorksheet.md)
+1. Review of the [syllabus homework](https://github.com/teachingasart/2019/blob/master/Workshops/syllabusworkshop.md)
 2. Lecture on pedagogy, the craft of teaching. Traditional pedagogy and critical pedagogy, alternative education.  
 
 ### Additional References 
@@ -115,7 +116,6 @@ February 16, 2017
 - [Sheetal Prajapati](http://sheetalprajapati.com/) at [MoMA](https://www.moma.org/calendar/programs/57#artists)
 - [Shaun Leonardo](http://elcleonardo.com/) at [New Museum](http://www.newmuseum.org/pages/view/persona)
 - [Art + Technology Lab](http://www.lacma.org/lab) at LACMA
-- [Machine Project](http://www.machineproject.com/files/pdf/MP0806_LACMA_Final.lo-res.pdf) at LACMA
 - [Triple Canopy](https://www.canopycanopycanopy.com/contents/speculations-the-future-is-___________) at [PS1](http://www.momaps1.org/expo1/module/school/)
 - Queens Museum [Education department](http://www.queensmuseum.org/education)
 - [Christine Sun Kim](http://christinesunkim.com) at [Whitney](http://whitney.org/WhitneyStories/ChristineSunKim)
@@ -126,7 +126,6 @@ February 16, 2017
 - Night School, [Museum as Hub](http://archive.newmuseum.org/index.php/Detail/Occurrence/Show/occurrence_id/951)
 - [Suzanne Lacy](https://suzannelacy.com) – LA & global
 - [Conflict Kitchen](http://conflictkitchen.org/) – Pittsburgh
-- The concept of care - Bernard Stiegler  
 - [Art of crossing the street](https://crossingstreet.wordpress.com/)
 
 
@@ -141,7 +140,7 @@ February 16, 2017
 - Presentation as 10 minute activation of workshop proposal - participatory with peers in class together. 
 
 ### Readings for Next Week: 
-- [Simone Leigh]()[Art is Medicine](https://www.artforum.com/print/201803/helen-molesworth-on-the-work-of-simone-leigh-74304)
+- [Art is Medicine](https://www.artforum.com/print/201803/helen-molesworth-on-the-work-of-simone-leigh-74304)
 - More [reading references](https://github.com/tchoi8/teachingasart2018/blob/master/lectures/lecture5.md)
 
 
@@ -150,8 +149,12 @@ February 16, 2017
 February 23, 2019
 
 [Part 1](https://tchoi8.github.io/teachingasart/lecture5)
+
+
 [Part 2](https://tchoi8.github.io/teachingasart/lecture6)
-[Unlearnign disability lecture](https://speakerdeck.com/tchoi8/unlearning-disability)
+
+
+[Unlearning disability lecture](https://speakerdeck.com/tchoi8/unlearning-disability)
 
 Lecture about combining theory and practice in art and teaching, through unlearning and plasticity, appropriation and representation. Discussion and lecture about acessible and inclusive learning spaces, Makerspaces, community spaces, libraries. Special focus on disability and access for Deaf, blind and wheelchair users.  
 
@@ -159,10 +162,15 @@ Lecture about combining theory and practice in art and teaching, through unlearn
 2. Lecture
 3. Discussion about final presentations
 
-- [Judith Butler](https://en.wikipedia.org/wiki/Judith_Butler)
-- [Martha Nussbaum](https://en.wikipedia.org/wiki/Martha_Nussbaum)
-- [Sara Hendren](http://aplusa.org/)
-- [Vicky Hanson](https://en.wikipedia.org/wiki/Vicki_L._Hanson)
+
+[Judith Butler](https://en.wikipedia.org/wiki/Judith_Butler)
+
+[Martha Nussbaum](https://en.wikipedia.org/wiki/Martha_Nussbaum)
+
+
+[Sara Hendren](http://aplusa.org/)
+
+[Vicky Hanson](https://en.wikipedia.org/wiki/Vicki_L._Hanson)
 
 
 ## Week 5. Final Presentations at Bobst Library
