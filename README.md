@@ -51,11 +51,7 @@ Reading assignment for next week:
 
 February 2, 2019
 
-[Lecture 1. Learner](https://tchoi8.github.io/teachingasart/lecture1.html)
-
-
-[Lecture 2. Curriculum](https://tchoi8.github.io/teachingasart/lecture2.html)
-
+[Lecture 1](http://taeyoonchoi.com/artofteaching/#/1)
 
 Introduction of the course and the instructor's practice and teaching philosophy. Questions about Learning. What is a curriculum? Artists as educators, performance artwork as curriculum  
  
@@ -66,8 +62,7 @@ Rotating roles:
 - Archivist: Inspector
 - Student: Inhabitant
 
-
-In-class exercise: Create a map that illustrates how you learn something.
+In-class exercise: Autobiography as a learner. Create a map that illustrates how you learn something.
 
 ### Homework Assignment: 
 Design a curriculum for yourself as a sophomore in high school. Be prepared to share in class next week
