@@ -16,6 +16,16 @@ In addition to student's selection of subjects, all students are required to tak
 
 Students are expected to have sessions where they are not required to go into a class. At these times, they are expected to use the time at their own disgression to do assignments for their classes or to continue their personal researches. Any of the common spaces such as student lounges, library, cafeteria or outdoor campus grounds are always open for students to use at any given time during school hours.
 
+# Motives
+
+![Sketch of Semi-Lattice Relationship between Leaf, Tree and Forest](assets/tree.JPG)
+
+In order to study a tree, it is important to study the individual elements that comprises the tree, but it is equally important to study the forest, the environment in which the tree thrives in.
+
+Kojin Karatani, in Chapter 4: Natural City of Architecture as Metaphor, Language, Number and Money (1965) talks about the semi-lattice structure of natural cities and the fact that this structure is one of the fundamental reasons that artificial cities with tree-like heirarchical structures are unable to thrive. Like natural cities, education and willingness to learn is a naturual human instinct that thrives at its best when done naturally, with individual's self-driven motivations.
+
+This curriculum is designed to create a structure and learning environment in which students are encouraged to be self-driven in their education endeavors to achieve the maximum possible learning. This is facilitated by allowing students to decide what they are interested in and further their studies in a primary subject - looking at the leaf of a tree. They are also asked to collaborate with students interested in another subject different from their primary subject, in order to encourage the students to have an overview of the outside world and the other subjects that exist in academia - looking at the forest.
+
 ## List of Subjects:
 * Mathematics
 * Further Mathematics
@@ -53,6 +63,9 @@ Session 6 | Primary Subject Intensive | Chemistry | Primary Subject Intensive | 
 Session 7 | Homeroom | Homeroom | Homeroom | Homeroom | Homeroom
 
 # Learning Objectives
+
+
+
 During this academic year, students will:
 * learn to collaborate with fellow students and develop 
 * learn to express their own ideas and opinions through making their own choices pertaining to their educational interests.
