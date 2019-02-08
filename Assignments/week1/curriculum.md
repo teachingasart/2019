@@ -1,6 +1,6 @@
 # Context
 
-Below curriculum is designed for sophomore year high school students.
+Below curriculum is designed for sophomore year high school students. It is designed, based on my experience of going through the GCE Advanced Level curriculum, commonly used in British high schools. This curriculum is designed with the intention that these students will go on to the GCE Advanced Level curriculum after their sophomore year.
 
 # Structure
 
@@ -64,12 +64,15 @@ Session 7 | Homeroom | Homeroom | Homeroom | Homeroom | Homeroom
 
 # Learning Objectives
 
-
-
 During this academic year, students will:
-* learn to collaborate with fellow students and develop 
 * learn to express their own ideas and opinions through making their own choices pertaining to their educational interests.
-* learn to 
+* learn to collaborate with fellow students and develop the social skills required.
+* learn to be responsible of their own education.
+* learn to be self-driven to motivate their personal studies.
+* learn to place their academic interest within a larger scope of practice.
 
 # Learning Outcome
-Through the pursuit of the curriculum, students will 
+Through the pursuit of the curriculum, students will be able to:
+* gain a deeper interest in their primary subject of choice, allowing them to be able to make a more informed choice for ther GCE Advanced Level studies next year.
+* be able to conduct self-driven studies, that are not necessarily monitored by teachers.
+* gain a "university-like" experience, preparing them for more liberal style of learning.
