@@ -18,7 +18,7 @@ Students are expected to have sessions where they are not required to go into a 
 
 # Motives
 
-![Sketch of Semi-Lattice Relationship between Leaf, Tree and Forest](assets/tree.JPG)
+![Sketch of Semi-Lattice Relationship between Leaf, Tree and Forest](img/tree.JPG)
 
 In order to study a tree, it is important to study the individual elements that comprises the tree, but it is equally important to study the forest, the environment in which the tree thrives in.
 
