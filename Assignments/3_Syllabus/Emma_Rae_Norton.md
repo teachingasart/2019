@@ -23,7 +23,7 @@ What does the internet look like? Where is it? How did it get built?
 ##### 🌗 activity
 Draw a map of what you think the physical infrastructure of internet looks like in your town. 
 ##### 🌑 discussion 
-How does the physicality of the Internet affect our physical environment? How does it effect our social environment? 
+How does the physicality of the Internet affect our physical environment? How does it affect our social environment? 
 
 ## 🌱 week 4 ~ what is a social network?
 ##### 🌕 lecture 
