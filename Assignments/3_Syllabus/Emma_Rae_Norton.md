@@ -41,13 +41,13 @@ How does the internet bring us together, and how does it separate us? What is co
 ##### 🌗 activity
 Design a community garden. Share your design with a partner. Give each other feedback. What is the life of a plant in this garden? What is a life of a human in this garden? How do all them co-exist to make a community garden feel like a community garden?
 ##### 🌑 discussion 
-How else can we come together outside of the systems that keep up together or apart? 
+How else can we come together outside of the systems that keep us together or apart? 
 
 ## 🌱 week 6 ~ teaching each other
 ##### 🌕 breathing practice 
 The final class will start with a breathing meditation. We will do body scans and bring our breath to every possible part of our bodies in order to become aware of our bodies in space. 
 ##### 🌗 presentations
-Student will present one of things made during the activities from the past 5 weeks. They are free to lecture, lead a discussion, make a visual artifact...anything.
+Students will present one of things made during the activities from the past 5 weeks. They are free to lecture, lead a discussion, make a visual artifact...it is completely up to them.
 ##### 🌑 discussion  
 Each presentation will be followed by a short discussion. 
 
