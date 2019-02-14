@@ -33,6 +33,8 @@ This week, we will focus on care for yourself. We will concentrate on reflecting
 ### Week 2: Care for Each Other
 This week, we will learn how to care about another person and express their care for them through means of embroidery. We will have the chance to reflect through the act of manual work and learn to think about what it means to spend time and effort thinking and express care for another person. 
 
+![Image of hands as representation and tool of care](img/hands-as-care.jpg)
+
 * In Class Activities:
   * Present your reflections about your experience of keeping a diary for the week. Talk about how you felt when you were writing it, and whether you think it help or didn't help you.
   * Expressing Care through Embroidery
