@@ -33,7 +33,7 @@ Design a social network online that takes cues from your real life social networ
 ##### 🌑 discussion  
 Think about the social networks that you are a part of? What do they look like? Is there a kind of system in place? If not what kind of things are guiding this network to exist?
 
-![Photo of a human and a huge tiger hugging each other.](img/care-syllabus.jpg)
+![]()
 
 ## 🌱 week 5 ~ practicing being, with each other 
 ##### 🌕 lecture 
