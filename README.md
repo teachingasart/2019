@@ -129,18 +129,14 @@ February 16, 2017
 
 
 ### Homework Assignment: 
-- Design a workshop inspired or informed by either Anni Albers, Joseph Beuys or Lygia Clark’s work.
-- Workshop should intend to happen at a New York based museum
-- Visitors/participants in your workshop are limited to 10 people are less 
-- Experience should be 1 hour or less 
-- Should be free or low cost - for participants and to produce as a workshop
-- Site visit suggested - incorporate the community and environment itself into your workshop
-- Write a syllabus for the workshop
-- Presentation as 10 minute activation of workshop proposal - participatory with peers in class together. 
+
+- For your final project you'll be designing a workshop to lead in class. The workshop can be about art, technology, or social justice. Or any combination of the three.
+- For next week, design a syllabus for your workshop.
+- Include budget and timeline.
+
 
 ### Readings for Next Week: 
-- [Art is Medicine](https://www.artforum.com/print/201803/helen-molesworth-on-the-work-of-simone-leigh-74304)
-- More [reading references](https://github.com/tchoi8/teachingasart2018/blob/master/lectures/lecture5.md)
+- TBD
 
 
 ## Week 4. Unlearning & Inclusive Learning
