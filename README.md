@@ -104,7 +104,7 @@ February 9, 2019
 
 February 16, 2017
 
-[Slides](https://tchoi8.github.io/teachingasart/lecture4)
+[Slides](https://tchoi8.github.io/teachingasart/2019_lecture3.html#/)
  
 1. Review of the [syllabus homework](https://github.com/teachingasart/2019/blob/master/Workshops/syllabusworkshop.md)
 2. Lecture on pedagogy, the craft of teaching. Traditional pedagogy and critical pedagogy, alternative education.  
