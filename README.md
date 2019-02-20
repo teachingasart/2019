@@ -135,13 +135,16 @@ February 16, 2017
 - Include budget and timeline.
 
 
-### Readings for Next Week: 
-- TBD
-
+### Readings and viewings for Next Week: 
+- [Independent Study](https://www.poetryfoundation.org/articles/69659/independent-study) by Emily Gould
+- [Born into Brothels](https://vimeo.com/56717860)
 
 ## Week 4. Unlearning & Inclusive Learning
 
 February 23, 2019
+
+
+Guest lecture by Maia Ruth Lee of the [Wide Rainbow](http://widerainbow.org)
 
 [Part 1](https://tchoi8.github.io/teachingasart/lecture5)
 
