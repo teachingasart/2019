@@ -13,12 +13,16 @@ Draw what you think random looks like on a piece of paper. Then discuss whether 
 truly random or not random.
 3. **What is Noise? What is Perlin Noise?**
  Draw what you think noise looks like. We will talk about how this drawing is different, or same, as the random drawings we did previously.
+ 
  ![Image of random and noise graph](img/random-noise-graph.jpg) 
+ 
 4. **Random vs Noise**
 Where is random and noise found in nature? Have you seen or heard something random or noisy on your commute to here? We will look at graphs of random and noise drawn by p5.js and attempt at labelling the components that are being used to create the graphs. We will also look at p5 reference on the random() and noise() function to give us some hints. Are there similarities in the graphs? What are the differences? How would you define noise relative to random? How would you define random relative to noise?
 5. **Quick introduction to p5.js** (depending on average skill level of students in p5, this section could be skipped.)
+
 ![Image of visual created with random and noise functions](img/random-noise.jpg)
-7. **Creating visuals with random() and noise() functions.**
+
+6. **Creating visuals with random() and noise() functions.**
 We will think of ways of using the random() and noise() functions to create visuals. What do you FEEL when you see these random visuals? How can we enhance or counter the emotions you feel from these visuals? When would you want to use random(), and when would you want to use noise()?
 
 ## References:
