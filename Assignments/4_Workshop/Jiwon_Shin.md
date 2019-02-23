@@ -51,3 +51,9 @@ In this workshop, students will achieve:
 * Feb 27: Run practice workshop with a small group of people and receive feedback.
 * Feb 28: Adjust workshop content according to feedback from practice workshop.
 * March 2: Workshop
+
+## Materials and Budget: 
+The workshop has approximately $10 dollars of material cost, and below is the list of materials required and their associated cost:
+* Students must bring their own laptops to class.
+* Paper (Will use scrap paper - 0$)
+* Pencils (approx. $10)
