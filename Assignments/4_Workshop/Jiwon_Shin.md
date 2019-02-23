@@ -23,7 +23,7 @@ Where is random and noise found in nature? Have you seen or heard something rand
 ![Image of visual created with random and noise functions](img/random-noise.jpg)
 
 6. **Creating visuals with random() and noise() functions.**
-We will think of ways of using the random() and noise() functions to create visuals. What do you FEEL when you see these random visuals? How can we enhance or counter the emotions you feel from these visuals? When would you want to use random(), and when would you want to use noise()?
+We will think of ways of using the random() and noise() functions to create visuals ([one example here](https://editor.p5js.org/js6450/present/UJllAkmB4)). What do you FEEL when you see these random visuals? How can we enhance or counter the emotions you feel from these visuals? When would you want to use random(), and when would you want to use noise()?
 
 ## References:
 * [Choreographic Interventions](https://github.com/mimiyin/choreographic-interventions-s19/), Mimi Yin
