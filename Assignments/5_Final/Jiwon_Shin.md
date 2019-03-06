@@ -11,14 +11,17 @@ The written material for this workshop is also available on [this webpage](https
 
 ### What is Random? (15 Min)
 Draw what you think random looks like on a piece of paper. Then discuss whether the drawing is truly random or not. (Examples of student drawings at the workshop below.)
+
 ![Image of student drawings of random](img/random-drawings.jpg)
 
 Watch sections of videos that explain concepts of random in [every day context](https://www.youtube.com/embed/9rIy0xY99a0) and in [context of computer science](https://www.youtube.com/embed/GtOt7EBNEwQ), and continue discussion about random in context of computer science & programming.
 
 First start off simple. Here is what you get if you use a random number to generate the x position of the ellipse. Discuss how this movement feels. ([link to code](https://editor.p5js.org/js6450/sketches/bXJ7Gr9jq))
+
 ![Gif of ellipse moving in random position along x axis](img/random-ellipse-pos.gif)
 
 What are the properties of this graph? What's the width and height of this graph? What is the mid horizontal point of this graph? What is the maximum value and the minimum value? ([link to code](https://editor.p5js.org/js6450/embed/sNZEDmYuN))
+
 ![Gif of graph of random](img/random-graph.gif)
 
 #### Coding with random()
@@ -37,6 +40,7 @@ What are the properties of this graph? What's the width and height of this graph
 
 #### Coding with noise()
 Let's create this an adaptation of the random walk that we saw using the noise() function in p5.js ([link to code](https://editor.p5js.org/js6450/sketches/aeykVYLr4)). What are the differences? What are the similarities? 
+
 ![Gif of noise walk](img/noise-walk.gif)
 
 ### Optional: Random vs Noise
@@ -54,6 +58,7 @@ This is how we could animate a circular edged shape, to create a blob like movem
 
 ### Combining Random and Noise (20 Min)
 Using the different characteristics of random() and noise(), this is an example of how the two different functions could be used to create a complete generated scene. The random() function is used to generate star-like visuals for the upper half of the sketch, and we use noise() function for smoothly fluctuating the curved lines for the waves. ([link to code](https://editor.p5js.org/js6450/sketches/922I-uQ4P))
+
 ![Gif of starry ocean drawn with random and noise](img/starry-ocean.gif)
 
 ### References
