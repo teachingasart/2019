@@ -143,6 +143,8 @@ There were two general things that people wanted to see more at the workshop: 1)
 One person gave a great comment about perhaps having half finished code for students to try to complete.
 
 ### Reflection
+First of all, I thought it was a rewarding experience to be able to teach such a wide audience of people. There were some people that I knew, who were a mix of non-student, graduate students and undergraduate students, and there were people whom I didn't know at all who had signed up to attend the workshop.
+
 Overall, I felt like the syllabus and material that I created had structure. However, I felt that for the flow and content of the workshop that I had created, it was something more for a longer duration workshop (1.5 hour would have been adaquate for the content prepared). I think this came from the fact that I am very used to creating workshops for this duration and during the mini-workhshop run through, I was able to move through the material faster because the people that I ran the practice workshop with had adequate understanding of p5.js. From the feedback that I got from the practice workshop, I had put in the video links to prompt people to discuss what they thought about random, which I thought was valuable component of the workshop, but at the same time, took more time. 
 
 The fact that feedback also points towards the direction that more time was needed for the content also makes me feel that maybe I could have reduced down the content of the workshop all together, perhaps getting rid of the noise component, but also, since a lot of people liked seeing the contrast between random() and noise(), I am not so sure.
