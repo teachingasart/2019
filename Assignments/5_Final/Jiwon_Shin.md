@@ -10,13 +10,31 @@ This workshop is presented as a final project for [Teaching as Art](https://teac
 ![Image of documentation of workshop](img/jiwon-workshop-doc-01.jpg)
 
 ## Structure of the Workshop
+### Introductions
+
 ### What is Random?
 
 ![Image of student drawings of random](img/random-drawings.jpg)
 
-![Image of student drawings of random](img/random-ellipse-pos.gif)
+Videos that explain concepts of random in [every day context](https://www.youtube.com/embed/9rIy0xY99a0) and in [context of computer science](https://www.youtube.com/embed/GtOt7EBNEwQ).
+
+![Gif of ellipse moving in random position along x axis](img/random-ellipse-pos.gif)
+![Gif of graph of random](img/random-graph.gif)
+![Gif of random walk](img/random-walk.gif)
 
 ### What is Noise?
 ![Image of student drawings of noise](img/noise-drawings.jpg)
 
+![Gif of ellipse moving along x axis with noise](img/noise-ellipse-pos.gif)
+![Gif of graph of noise](img/noise-graph.gif)
+![Gif of noise walk](img/noise-walk.gif)
 
+### Optional: Random vs Noise
+![Gif of polygon animated with random for vertex movement](img/random-blob.gif)
+![Gif of polygon animated with noise for vertex movement](img/noise-blob.gif)
+
+![Gif of drawing tool with mouse position and random](img/random-draw.gif)
+![Gif of drawing tool with mouse position and noise](img/noise-draw.gif)
+
+### Combining Random and Noise
+![Gif of starry ocean drawn with random and noise](img/starry-ocean.gif)
