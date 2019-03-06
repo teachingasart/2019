@@ -15,10 +15,10 @@ Draw what you think random looks like on a piece of paper. Then discuss whether 
 
 Watch sections of videos that explain concepts of random in [every day context](https://www.youtube.com/embed/9rIy0xY99a0) and in [context of computer science](https://www.youtube.com/embed/GtOt7EBNEwQ), and continue discussion about random in context of computer science & programming.
 
-First start off simple. Here is what you get if you use a random number to generate the x position of the ellipse. Discuss how this movement feels.
+First start off simple. Here is what you get if you use a random number to generate the x position of the ellipse. Discuss how this movement feels. ([link to code](https://editor.p5js.org/js6450/sketches/bXJ7Gr9jq))
 ![Gif of ellipse moving in random position along x axis](img/random-ellipse-pos.gif)
 
-What are the properties of this graph? What's the width and height of this graph? What is the mid horizontal point of this graph? What is the maximum value and the minimum value?
+What are the properties of this graph? What's the width and height of this graph? What is the mid horizontal point of this graph? What is the maximum value and the minimum value? ([link to code](https://editor.p5js.org/js6450/embed/sNZEDmYuN))
 ![Gif of graph of random](img/random-graph.gif)
 
 #### Coding with random()
@@ -29,10 +29,10 @@ As explained in the videos above, this what the random walk looks like, which dr
 Draw what you think noise looks like. Talk about how this drawing is different, or same, as the random drawings done previously.
 ![Image of student drawings of noise](img/noise-drawings.jpg)
 
-We will start simple with this one too. Here is what the horizontal movement of an ellipse looks like using noise() function. How does this movement make you feel compared to the random movement we saw previously?
+We will start simple with this one too. Here is what the horizontal movement of an ellipse looks like using noise() function. How does this movement make you feel compared to the random movement we saw previously? ([link to code](https://editor.p5js.org/js6450/embed/z5Dbv9tO5))
 ![Gif of ellipse moving along x axis with noise](img/noise-ellipse-pos.gif)
 
-What are the properties of this graph? What's the width and height of this graph? What is the mid horizontal point of this graph? What is the maximum value and the minimum value?
+What are the properties of this graph? What's the width and height of this graph? What is the mid horizontal point of this graph? What is the maximum value and the minimum value? ([link to code](https://editor.p5js.org/js6450/embed/mVEA_QnM1))
 ![Gif of graph of noise](img/noise-graph.gif)
 
 #### Coding with noise()
@@ -42,13 +42,15 @@ Let's create this an adaptation of the random walk that we saw using the noise()
 ### Optional: Random vs Noise
 Now lets look at how we can create different emotions to generate lines and shapes using random() and noise().
 
-Below are two simple drawing tools, using random() and noise(). The red line represents the real mouse positions, and the white line represents the lines drawn with random() or noise() values added to the real mouse position values.
-![Gif of polygon animated with random for vertex movement](img/random-blob.gif)
-![Gif of polygon animated with noise for vertex movement](img/noise-blob.gif)
+Below are two simple drawing tools, using random() and noise(). The red line represents the real mouse positions, and the white line represents the lines drawn with random() or noise() values added to the real mouse position values. (Random: [link to code](https://editor.p5js.org/js6450/sketches/odzvPMSWh), Noise: [link to code](https://editor.p5js.org/js6450/sketches/zokbnRFbM))
 
-This is how we could animate a circular edged shape, to create a blob like movement, using random() and noise().
 ![Gif of drawing tool with mouse position and random](img/random-draw.gif)
 ![Gif of drawing tool with mouse position and noise](img/noise-draw.gif)
+
+This is how we could animate a circular edged shape, to create a blob like movement, using random() and noise(). (Random: [link to code](https://editor.p5js.org/js6450/sketches/OHHeLDUo7), Noise: [link to code](https://editor.p5js.org/js6450/sketches/UICJ8O9ul))
+
+![Gif of polygon animated with random for vertex movement](img/random-blob.gif)
+![Gif of polygon animated with noise for vertex movement](img/noise-blob.gif)
 
 ### Combining Random and Noise (20 Min)
 Using the different characteristics of random() and noise(), this is an example of how the two different functions could be used to create a complete generated scene. The random() function is used to generate star-like visuals for the upper half of the sketch, and we use noise() function for smoothly fluctuating the curved lines for the waves. ([link to code](https://editor.p5js.org/js6450/sketches/922I-uQ4P))
@@ -142,5 +144,7 @@ One person gave a great comment about perhaps having half finished code for stud
 
 ### Reflection
 Overall, I felt like the syllabus and material that I created had structure. However, I felt that for the flow and content of the workshop that I had created, it was something more for a longer duration workshop (1.5 hour would have been adaquate for the content prepared). I think this came from the fact that I am very used to creating workshops for this duration and during the mini-workhshop run through, I was able to move through the material faster because the people that I ran the practice workshop with had adequate understanding of p5.js. From the feedback that I got from the practice workshop, I had put in the video links to prompt people to discuss what they thought about random, which I thought was valuable component of the workshop, but at the same time, took more time. 
+
 The fact that feedback also points towards the direction that more time was needed for the content also makes me feel that maybe I could have reduced down the content of the workshop all together, perhaps getting rid of the noise component, but also, since a lot of people liked seeing the contrast between random() and noise(), I am not so sure.
+
 In terms of some feedback about the pace of the workshop, and after talking to Taeyoon after class and attending Emma's Hand Coding Round Robin workshop, printing out the example codes on paper would have been a great idea. Also, one person's feedback about preparing code that attendants can "fill the gap" would have been a great activity.
