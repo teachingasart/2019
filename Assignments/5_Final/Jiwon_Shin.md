@@ -26,16 +26,20 @@ What are the properties of this graph? What's the width and height of this graph
 
 #### Coding with random()
 As explained in the videos above, this what the random walk looks like, which draws continuous lines of randomly generated x and y coordinates. Let's create this random walk using p5.js ([link to code](https://editor.p5js.org/js6450/sketches/pd0lXqU_V)).
+
 ![Gif of random walk](img/random-walk.gif)
 
 ### What is Noise? (15 Min)
 Draw what you think noise looks like. Talk about how this drawing is different, or same, as the random drawings done previously. (Examples of student drawings at the workshop below.)
+
 ![Image of student drawings of noise](img/noise-drawings.jpg)
 
 We will start simple with this one too. Here is what the horizontal movement of an ellipse looks like using noise() function. How does this movement make you feel compared to the random movement we saw previously? ([link to code](https://editor.p5js.org/js6450/embed/z5Dbv9tO5))
+
 ![Gif of ellipse moving along x axis with noise](img/noise-ellipse-pos.gif)
 
 What are the properties of this graph? What's the width and height of this graph? What is the mid horizontal point of this graph? What is the maximum value and the minimum value? ([link to code](https://editor.p5js.org/js6450/embed/mVEA_QnM1))
+
 ![Gif of graph of noise](img/noise-graph.gif)
 
 #### Coding with noise()
