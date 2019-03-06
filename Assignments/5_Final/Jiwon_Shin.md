@@ -10,7 +10,7 @@ This workshop is presented as a final project for [Teaching as Art](https://teac
 The written material for this workshop is also available on [this webpage](https://js6450.github.io/random/), and the presentation used is available on [this webpage](https://js6450.github.io/random/present.html).
 
 ### What is Random? (15 Min)
-Draw what you think random looks like on a piece of paper. Then discuss whether the drawing is truly random or not.
+Draw what you think random looks like on a piece of paper. Then discuss whether the drawing is truly random or not. (Examples of student drawings at the workshop below.)
 ![Image of student drawings of random](img/random-drawings.jpg)
 
 Watch sections of videos that explain concepts of random in [every day context](https://www.youtube.com/embed/9rIy0xY99a0) and in [context of computer science](https://www.youtube.com/embed/GtOt7EBNEwQ), and continue discussion about random in context of computer science & programming.
@@ -26,7 +26,7 @@ As explained in the videos above, this what the random walk looks like, which dr
 ![Gif of random walk](img/random-walk.gif)
 
 ### What is Noise? (15 Min)
-Draw what you think noise looks like. Talk about how this drawing is different, or same, as the random drawings done previously.
+Draw what you think noise looks like. Talk about how this drawing is different, or same, as the random drawings done previously. (Examples of student drawings at the workshop below.)
 ![Image of student drawings of noise](img/noise-drawings.jpg)
 
 We will start simple with this one too. Here is what the horizontal movement of an ellipse looks like using noise() function. How does this movement make you feel compared to the random movement we saw previously? ([link to code](https://editor.p5js.org/js6450/embed/z5Dbv9tO5))
