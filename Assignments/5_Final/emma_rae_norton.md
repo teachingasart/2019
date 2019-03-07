@@ -1,9 +1,8 @@
 # hand coding round robin
+you can also read this guide [here](https://spaghettimeatballsbecomereallyfrightening.online/teaching-as-art/week-6-workshop-reflection/).
 by emma rae norton
 
-## overview
-
-you can also read this guide [here](https://spaghettimeatballsbecomereallyfrightening.online/teaching-as-art/week-6-workshop-reflection/).
+## workshop overview
 
 hand coding round robin is a 50 minute workshop where a group of students will learn how to hand code a web page by working on each others computers. The workshop begins with a short lecture and discussion about computation as metaphor and what it might look like to approach computation outside of the metaphors that have been given to us and through writing code with care, character by character.
 
