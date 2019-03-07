@@ -70,6 +70,7 @@ Return to original seat, final P tag, style by ID. Students can write anything i
 
 Optional sharing and post-workshop notes. Ask students to send you their files and answer any outstanding questions.
 <br>
+<br>
 ![Screen Shot 2019-03-03 at 12.38.08 PM](img/ern-sharing.png)
 <br>
 <br>
