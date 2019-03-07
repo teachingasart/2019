@@ -88,6 +88,6 @@ ask the students to rename and email you their HTML files. the files should be p
 
 ![Screen Shot 2019-03-03 at 12.39.21 PM](img/ern-wrapping-up.png)
 
-## reflection + notes
+## reflection + student feedback
 
 the workshop will run best with students who have written HTML or CSS in a text editor at least once. this ensures that students are already comfortable with the relationship between writing code in an editor and having it perform in another application like the browser. most students in the first two runs of this workshop had extremely positive feedback. they were excited about learning how to code and also excited by the results of their code. it is important to read the room for skill level so that the teacher can spend more time introducing things if needed. for example, if there are several students who haven't written CSS in a long time then it is important to move slowly with the first H1 element and how to style it.  
