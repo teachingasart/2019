@@ -17,7 +17,7 @@ there is a lot of flexibility in terms of number of participants and even number
 
 the teacher of this workshop will need to have prepared a short lecture that starts with the idea of computation as metaphor and ends with examples of hand coded web pages. they should also be prepared to lead "code-alongs" for each prompt and answer questions about the nature of HTML, CSS, and Javascript.
 
-the students of the this workshop will need their own computer to participate. they will be switching seats and working on each others computers so they should also be comfortable with someone else using their computer. students should also have a text editor installed on their computer and they should have downloaded the starter HTML file (provided by the teacher) before arriving at the workshop.
+the students of the workshop will need their own computer to participate. they will be switching seats and working on each others computers so they should also be comfortable with someone else using their computer. students should also have a text editor installed on their computer and they should have downloaded the starter HTML file (provided by the teacher) before arriving at the workshop.
 
 if following the syllabus closely, preparation should take a few hours. the most important preparation includes sending students the starter HTML file and preparing lecture notes.
 
