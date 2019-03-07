@@ -1,3 +1,6 @@
+# hand coding round robin
+by emma rae norton
+
 ## overview
 
 you can also read this guide [here](https://spaghettimeatballsbecomereallyfrightening.online/teaching-as-art/week-6-workshop-reflection/).
@@ -66,6 +69,7 @@ Return to original seat, final P tag, style by ID. Students can write anything i
 Optional sharing and post-workshop notes. Ask students to send you their files and answer any outstanding questions.
 <br>
 ![Screen Shot 2019-03-03 at 12.38.08 PM](img/ern-sharing.png)
+<br>
 <br>
 *original lecture slides can be found [here](https://doodybrains.github.io/hand-coding-round-robin/ "Hand Coding Lecture Slides").*
 
