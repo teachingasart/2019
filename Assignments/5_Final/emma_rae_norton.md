@@ -7,11 +7,11 @@ you can also read this guide [here](https://spaghettimeatballsbecomereallyfright
 
 ## workshop overview
 
-hand coding round robin is a 50 minute workshop where a group of students will learn how to hand code a web page by working on each others computers. The workshop begins with a short lecture and discussion about computation as metaphor and what it might look like to approach computation outside of the metaphors that have been given to us and through writing code with care, character by character.
+hand coding round robin is a 50 minute workshop where a group of students will learn how to hand code a web page by working on each others computers. the workshop begins with a short lecture and discussion about computation as metaphor and what it might look like to approach computation outside of the metaphors that have been given to us and through writing code with care, character by character.
 
-ideally the workshop will be given in a space that has a large screen or projector for the teacher. the students should ideally be able to sit in a circular formation around a table.
+the workshop should be held in a space that has a large screen or projector for the teacher. ideally the students will be able to sit in a circular formation around a table.
 
-this workshop is really flexible in terms of number of participants and even number of teachers. the amount of time and space available should dictate the amount of students. the session can be run smoothly in under an hour with 5-8 participants. the workshop time can also be extended by facilitating a longer lecture and discussion or adding more HTML/CSS prompts, each of which takes about 2-5 minutes.
+there is a lot of flexibility in terms of number of participants and even number of teachers. the amount of time and space available should dictate the amount of students. the session can be run smoothly in under an hour with 5-8 participants. the duration of the workshop can also be extended by facilitating a longer lecture and discussion or adding more HTML/CSS prompts, each of which should take about 2-5 minutes.
 
 ## preparation
 
@@ -90,6 +90,8 @@ ask the students to rename and email you their HTML files. the files should be p
 
 ## reflection + student feedback
 
-the workshop will run best with students who have written HTML or CSS in a text editor at least once. this ensures that students are already comfortable with the relationship between writing code in an editor and having it perform in another application like the browser. most students in the first two runs of this workshop had extremely positive feedback. they were excited about learning how to code and also excited by the results of their code. it is important to read the room for skill level so that the teacher can spend more time introducing things if needed. for example, if there are several students who haven't written CSS in a long time then it is important to move slowly with the first H1 element and teaching the students how to style it. it might also be interesting to allow students to choose a computer for each prompt instead of moving down one seat, this might create more interesting web pages!
+the workshop will run best with students who have written HTML or CSS in a text editor at least once. this ensures that students are already comfortable with the relationship between writing code in an editor and having it perform in another application like the browser.
+
+most students in the first two runs of this workshop had extremely positive feedback. they were excited about learning how to code for a web page and also excited by the results of their code. it is important to read the room for skill level so that the teacher can spend more time introducing things if needed. for example, if there are several students who aren't sp familiar with CSS then it is important to move slowly with the first H1 element and teaching the students how to style it. it might also be interesting to allow students to choose a computer for each prompt instead of moving down one seat, this might create more interesting web pages!
 
 overall i am really excited about this workshop. i think it can be run in any number of spaces with any number of students. while the outcome of the workshop for students is learning how to hand code i think the greater outcome is the sharing of web pages and inspiring students to add to the world wide web in this way.
