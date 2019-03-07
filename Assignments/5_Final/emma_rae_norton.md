@@ -23,7 +23,7 @@ if following the syllabus closely, preparation should take a few hours. the most
 
 ## budget
 
-so long as you have access to a projector or screen for presenting and each student has their own computer then the budget shoud be extremely small! the students find it helpful to have a print out of the coding reference which can be found [here](https://doodybrains.github.io/hand-coding-round-robin/pre-workshop-materials/hand-coding-round-robin-reader-students.docx "hand coding round robin reference for students"). cost will depend on printing service and amount of students.
+so long as you have access to a projector or screen for presenting and each student has their own computer then the budget shoud be extremely small! the students find it helpful to have a print out of the coding reference which can be found [here](https://doodybrains.github.io/hand-coding-round-robin/pre-workshop-materials/hand-coding-round-robin-reader-students.docx "hand coding round robin reference for students"). cost will depend on the printing service and amount of students.
 
 ![Screen Shot 2019-03-03 at 12.38.54 PM](img/ern-lecture.png)
 <br>
